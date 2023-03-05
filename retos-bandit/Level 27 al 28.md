@@ -7,7 +7,15 @@ bandit27
 YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 ## Solución 
 ```bash
-bandit27@bandit:/tmp/tmp.qC0pPiI3Wg$ git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+bandit27@bandit:~$ mktemp -d
+/tmp/tmp.RmlqO5zKzz
+bandit27@bandit:~$ git clone ssh://bandit27-
+fatal: could not create work tree dir 'bandit27-': Permission denied
+bandit27-git/repoba
+bandit27@bandit:~$ git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
+fatal: could not create work tree dir 'repo': Permission denied
+bandit27@bandit:~$ cd /tmp/tmp.RmlqO5zKzz
+bandit27@bandit:/tmp/tmp.RmlqO5zKzz$ git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo
 Cloning into 'repo'...
 The authenticity of host '[localhost]:2220 ([127.0.0.1]:2220)' can't be established.
 ED25519 key fingerprint is SHA256:C2ihUBV7ihnV1wUXRb4RrEcLfXC5CXlhmAAM/urerLY.
@@ -29,9 +37,19 @@ bandit27-git@localhost's password:
 remote: Enumerating objects: 3, done.
 remote: Counting objects: 100% (3/3), done.
 remote: Compressing objects: 100% (2/2), done.
+Receiving objects: 100% (3/3), 286 bytes | 286.00 KiB/s, done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-Receiving objects: 100% (3/3), done.
-bandit27@bandit:/tmp/tmp.qC0pPiI3Wg$
+bandit27@bandit:/tmp/tmp.RmlqO5zKzz$ ls -la
+total 124
+drwx------  3 bandit27 bandit27   4096 Mar  1 01:59 .
+drwxrwx-wt 52 root     root     114688 Mar  1 02:01 ..
+drwxrwxr-x  3 bandit27 bandit27   4096 Mar  1 02:00 repo
+bandit27@bandit:/tmp/tmp.RmlqO5zKzz$ cd repo/
+bandit27@bandit:/tmp/tmp.RmlqO5zKzz/repo$ ls
+README
+bandit27@bandit:/tmp/tmp.RmlqO5zKzz/repo$ cat README
+The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19nR
+bandit27@bandit:/tmp/tmp.RmlqO5zKzz/repo$
 ```
 ## Notas adicionales 
 
