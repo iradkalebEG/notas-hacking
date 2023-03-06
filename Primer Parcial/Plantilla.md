@@ -9,7 +9,7 @@
 
 ```
 ## Bandera
-picoCTF{ }
+picoCTF{}
 
 ## Notas Adicionales 
 comando          descripción
