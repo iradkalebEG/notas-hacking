@@ -181,14 +181,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primer Parcial/Plantilla.md",
+                "file": "Primer Parcial/2019/06-Bases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e536232166ec9ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/2019/07-First Grep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4a27e179a9426c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/2019/08-Based.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8763702d0ae747b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/2019/09-Plumbing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c1efc1266bf80e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/2019/10-Mus1c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386520d7b81c03e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/2019/11-Flag_Shop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f3fe39b28b03f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primer Parcial/2019/06-Bases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -254,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Primer Parcial/Plantilla.md",
+                "file": "Primer Parcial/2019/06-Bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Primer Parcial/Plantilla.md",
+                "file": "Primer Parcial/2019/06-Bases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Primer Parcial/Plantilla.md"
+                "file": "Primer Parcial/2019/06-Bases.md"
               }
             }
           }
@@ -315,8 +387,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "498c133a61aeced6",
+  "active": "a5f3fe39b28b03f8",
   "lastOpenFiles": [
+    "retos-bandit/Retos 28 a 33/Level 29 al 30.md",
+    "retos-bandit/Retos 28 a 33/Level 33 al 34.md",
+    "Primer Parcial/2019/12-1_wanna_b3_a_r0ck5tar.md",
+    "Primer Parcial/2019/11-Flag_Shop.md",
+    "Primer Parcial/2019/10-Mus1c.md",
+    "Primer Parcial/Plantilla.md",
+    "README.md",
+    "retos-bandit/Retos 28 a 33/Level 28 al 29.md",
+    "retos-bandit/Retos 28 a 33/Level 30 al 31.md",
+    "retos-bandit/Retos 28 a 33/Level 32 al 33.md",
+    "retos-bandit/Retos 28 a 33/Level 31 al 32.md",
+    "Primer Parcial/2019/09-Plumbing.md",
+    "Primer Parcial/2019/08-Based.md",
+    "Primer Parcial/2019/07-First Grep.md",
+    "Primer Parcial/2019/06-Bases.md",
     "retos-bandit/Plantilla Retos Bandit.md",
     "retos-bandit/Retos 22 a 28/Level 22 al 23.md",
     "retos-bandit/Retos 28 a 33",
@@ -334,23 +421,8 @@
     "retos-bandit/Retos 0 a 9/Level 7 al 8.md",
     "retos-bandit/Retos 0 a 9/Level 6 al 7.md",
     "retos-bandit/Retos 0 a 9/Level 5 al 6.md",
-    "retos-bandit/Retos 0 a 9/Level 4 al 5.md",
-    "retos-bandit/Retos 0 a 9/Level 3 al 4.md",
-    "retos-bandit/Retos 0 a 9/Level 0 al 1.md",
-    "Primer Parcial/Untitled.md",
     "Primer Parcial/2022",
     "Primer Parcial/2021",
-    "Untitled.md",
-    "README.md",
-    "Primer Parcial/2019/06-Bases.md",
-    "Primer Parcial/06-Bases.md",
-    "Primer Parcial/2019/05-Strings It.md",
-    "Primer Parcial/Plantilla.md",
-    "retos-bandit/Retos 28 a 33/Level 33 al 34.md",
-    "retos-bandit/Retos 28 a 33/Level 32 al 33.md",
-    "retos-bandit/Retos 28 a 33/Level 31 al 32.md",
-    "retos-bandit/Retos 28 a 33/Level 30 al 31.md",
-    "retos-bandit/Retos 28 a 33/Level 29 al 30.md",
     "Primer Parcial/2019",
     "Primer Parcial"
   ]
