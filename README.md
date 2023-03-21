@@ -5,7 +5,7 @@
 Irad Kaleb Esparza García
 iradkalebe@gmail.com
 
-Carlos Castañeda Ramírez 
+Mtro. Carlos Castañeda Ramírez 
 castr@uaz.edu.mx
 
 ## Retos resueltos
